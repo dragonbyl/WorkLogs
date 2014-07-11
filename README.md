@@ -7,3 +7,5 @@
 4. echo -e "\nPATH=\$PATH:/opt/armgcc/bin/" >> ~/.bashrc 
   source ~/.bashrc
 5. whereis kicad
+6. Outlook启动提示找不到文件Outlook.pst文件
+	使用命令 outlook /importprf .\.prf 进行初始化 Outlook 数据文件.
