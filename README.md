@@ -9,3 +9,5 @@
 5. whereis kicad
 6. Outlook启动提示找不到文件Outlook.pst文件
 	使用命令 outlook /importprf .\.prf 进行初始化 Outlook 数据文件.
+7. 右键 AMD Catalyst Control Center 怎么删除进入注册表 
+	开始--运行--regedit--HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\把分支下面的ACE文件夹删掉
